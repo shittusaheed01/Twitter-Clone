@@ -1,0 +1,65 @@
+.tweet-container{
+  width: 100%;
+  margin: auto;
+  border-bottom: 1px solid #666;
+  border-right: none;
+  padding:8px 0;
+  display: flex;
+  flex-direction: column;
+}
+.text-container{
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex: 1;
+}
+.textarea{
+  outline: none;
+  background-color: transparent;
+  border: none;
+  width: 80%;
+  resize: none;
+  overflow: auto;
+  /* border: 1px solid red; */
+  /* border-bottom: 1px solid #666; */
+  height: 100%;
+  /* align-self: flex-end; */
+  flex: 1;
+  font-size: 20px;
+  color: #fff;
+  padding: 20px 0;
+}
+.icons-div{
+  /* border: 1px solid gray; */
+  /* margin-top: 20px; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  /* margin:20px auto 0; */
+}
+.icons-div > div{
+  padding-left: 50px;
+}
+.icons-div p{
+  display: inline;
+  margin: 5px;
+  font-size: 18px;
+  /* color: blue; */
+  color: rgb(29,161,242);
+  /* padding: 5px; */
+  cursor: pointer;
+}
+
+.icons-div button{
+  cursor: pointer;
+  color: #eee;
+  background-color: rgb(29,161,242);
+  padding: 10px;
+  outline: none;
+  border: none;
+  border-radius:15px;
+  width: 20%;
+  font-size: 15px;
+  margin-right: 3px;
+}

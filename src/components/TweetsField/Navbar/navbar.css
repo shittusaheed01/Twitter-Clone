@@ -1,0 +1,17 @@
+.top-nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  /* margin: auto; */
+  border-bottom: 1px solid #555;
+}
+.home{
+  font-size: 15px;
+  font-weight: 800;
+  margin: 0;
+}
+.top-nav p{
+  color: rgb(29,161,242);
+  font-size: 15px;
+}

@@ -1,9 +1,9 @@
 const data = [
   {
-    name: "Hashnode",
+    name: "Hashnode", Etc
     handle: "hashnode",
     image:
-      "https://pbs.twimg.com/profile_images/1275811077754781697/qtOiI8lk_400x400.jpg",
+      "https://pbs.twimg.com/profile_images/1609160174077632513/P_PHswh-_200x200.jpg",
     alt: "image",
     tweet:
       "Big news for the hashnode community! We're thrilled to announce that we have closed a seed funding of $2.1M lid by Sequoia Capital's @_surgeahead with participation from many amazing angel investors. Full announcement here:",
@@ -52,7 +52,7 @@ const data = [
     name: "Saheed Shittu",
     handle: "Saheed___",
     image:
-      "https://pbs.twimg.com/profile_images/1348207362151223302/I8alATdr_400x400.jpg",
+      "https://pbs.twimg.com/profile_images/1610263824560525314/hcdzo3Li_200x200.jpg",
     alt: "image",
     tweet: "Well, this looks good",
     tweetLink: "",

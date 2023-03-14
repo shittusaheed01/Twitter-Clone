@@ -9,7 +9,7 @@ const data = [
       "Big news for the hashnode community! We're thrilled to announce that we have closed a seed funding of $2.1M lid by Sequoia Capital's @_surgeahead with participation from many amazing angel investors. Full announcement here:",
     tweetLink: "Announcing Hashnode's $2.1M seed round",
     tweetLinkImg:
-      "https://pbs.twimg.com/card_img/1351549238048526339/7dmWHM8j?format=png&name=360x360",
+      "https://pbs.twimg.com/card_img/1635151205688307712/7w61ZrdP?format=jpg&name=small",
     tweetLinkURL: "townhall.hashnode.com",
     comment: 38,
     retweet: 66,
@@ -27,7 +27,7 @@ const data = [
     tweetLink: "$40M to Build The Net Web - Vercel",
     tweetLinkURL: "vercel.com",
     tweetLinkImg:
-      "https://pbs.twimg.com/card_img/1351983950646763520/asWsLWV9?format=png&name=360x360",
+      "https://pbs.twimg.com/card_img/1633139729515577346/OX20wNy8?format=jpg&name=small",
     comment: 74,
     retweet: 361,
     likes: 2096,

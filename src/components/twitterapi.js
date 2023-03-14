@@ -1,6 +1,6 @@
 const data = [
   {
-    name: "Hashnode", Etc
+    name: "Hashnode",
     handle: "hashnode",
     image:
       "https://pbs.twimg.com/profile_images/1609160174077632513/P_PHswh-_200x200.jpg",
